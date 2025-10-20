@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cfg xmlns="http://alternativaplatform.com/core/config.xsd">
+    <server address="127.0.0.1" mode="simple">
+        <ports>
+            <port>5001</port>
+        </ports>
+        <webSocketPorts>
+            <port>0</port>
+        </webSocketPorts>
+    </server>
+    <plugins/>
+    <status>normal</status>
+</cfg>
